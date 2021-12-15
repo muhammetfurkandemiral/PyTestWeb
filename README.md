@@ -2,7 +2,7 @@
 
 >How to Work
 >
-
+https://user-images.githubusercontent.com/37184598/146187243-c9d1add7-5746-44d7-9eef-802b657bc47a.mp4
 
 Test Automation Case
 >-Navigate to https://www.webtekno.com
